@@ -15,10 +15,10 @@
 
 ## 🛠️ Tech Stack
 
- - **Frontend**: React, Vite, TypeScript, Tailwind CSS, MongoDB, node.js, expressJS, crxjs
+ - **Frontend**: React, Vite, TypeScript, Tailwind CSS, crxjs
  - **Authentication:** Clerk
  - **Icons:** Lucide React
- - **Backend**: BotCache API
+ - **Backend**: MongoDB, Node.js, ExpressJS,
 
 <div display="flex" align="center" class="text-center">
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?style=flat&amp;logo=React&amp;logoColor=black" class="inline-block mx-1" style="margin: 0px 2px;"/>
@@ -37,24 +37,6 @@
    
 ## ⚡ Getting Started
 
-Prerequisites
-
- - Node.js (v18+ recommended)
- - npm or yarn
-   
-1. Clone the Repository
-
-```sh
-https://github.com/ConversoDB/ChatStore.git
-cd ChatStore
-```
-
-2. Setup Frontend
-
-```sh
-npm install
-npm run dev
-```
 
 
 ## 🧩Usage
@@ -65,7 +47,12 @@ npm run dev
  - **Explore features:**  
    - Filter by category or favorites.
    - View synonyms and example sentences.
-   - See category statistics and word counts.
+   - See category statistics and word counts.<br />
+   <br />
+ - Select Mode: Choose between Storage, ChatBot, or Disable from the main interface
+ - Add Vocabulary: select a word or sentence, its meaning, example, and (optionally) synonyms and pronunciation will be stored automatically.
+ - Chat with AI: Switch to ChatBot mode to ask questions or get explanations.
+ - Remove Data: Use the remove button to clear your email or stored data.
    
 ## 📸 Screenshots
 
@@ -73,7 +60,7 @@ npm run dev
  
   <img width="1552" height="449" alt="Untitled (20)" src="https://github.com/user-attachments/assets/a4001e3d-875f-4ba0-85e5-a77c39fcc4f6" />
   <br>
-  <video src="https://github.com/user-attachments/assets/c09d0aa8-4ab1-4d3f-a110-52005525ee49"/> 
+  
 
    
 

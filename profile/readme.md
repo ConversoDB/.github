@@ -5,13 +5,15 @@
 
 ## 🚀 Features
  - **User Authentication:** Secure sign-in and user management with Clerk.
- - **Word Management:** Add, edit, and delete words with definitions, examples, and categories.
+ - **Word Management:** Save new words, meanings, examples, and synonyms just by selecting.
+ - **AI ChatBot:** Ask questions or get explanations about words and phrases just by selecting it.
  - **Favorites:** Mark words as favorites for quick access.
  - **Search & Filter:** Powerful search and category filtering for easy navigation.
  - **Responsive UI:** Clean, mobile-friendly interface built with Tailwind CSS and Lucide icons.
  - **Persistent Storage:** Words are fetched and updated via a backend API.
+ - **Email Integration:** Associate vocabulary with your email for personalized storage.
+ - **Pronunciation Support:** Store and retrieve phonetic and audio pronunciation.
    
-
 
 ## 🛠️ Tech Stack
 

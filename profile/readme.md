@@ -1,6 +1,9 @@
-# ConversoDB
-
-- A modern React-based web application for building, managing, and exploring a personalized vocabulary library. Users can search, filter, and favorite words, as well as organize them by category or topic.
+<div align="center">
+ 
+ # ConversoDB
+ 
+  A modern React-based web application for building, managing, and exploring a personalized vocabulary library. Users can search, filter, and favorite words, as well as organize them by         category or topic.
+</div>
 
 
 ## 🚀 Features
@@ -33,24 +36,7 @@
    
 ## ⚡ Getting Started
 
-Prerequisites
-
- - Node.js (v18+ recommended)
- - npm or yarn
-   
-1. Clone the Repository
-
-```sh
-https://github.com/ConversoDB/ChatStore.git
-cd ChatStore
-```
-
-2. Setup Frontend
-
-```sh
-npm install
-npm run dev
-```
+[Website](https://recodehive.com/)
 
 
 ## 🧩Usage

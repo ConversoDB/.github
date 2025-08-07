@@ -42,7 +42,7 @@
    
 ## ⚡ Getting Started
 
-[Website](https://recodehive.com/)
+[Website](/https://chatstoree-anwesha2002s-projects.vercel.app/)
 
 ## 🧩Usage
  - **Sign in:**: Use the Clerk sign-in button to authenticate.

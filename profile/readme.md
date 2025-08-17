@@ -47,17 +47,18 @@
 ## 🧩Usage
  - **Sign in:**: Use the Clerk sign-in button to authenticate.
  - **Add and manage words:**:
-   - Search, filter, and mark words as favorites.
-   - Edit or delete words as needed.
- - **Explore features:**  
-   - Filter by category or favorites.
+   - Load the extension in developer mode and pin it.
+   - you can search, filter, and mark words as favorites.
+   - Delete words as needed.
+ - **Explore features:**
+   - You can also ask more things about the topic to the chatbot.
    - View synonyms and example sentences.
    - See category statistics and word counts.<br />
    <br />
- - Select Mode: Choose between Storage, ChatBot, or Disable from the main interface
- - Add Vocabulary: select a word or sentence, its meaning, example, and (optionally) synonyms and pronunciation will be stored automatically.
- - Chat with AI: Switch to ChatBot mode to ask questions or get explanations.
- - Remove Data: Use the remove button to clear your email or stored data.
+ 1. **Select Mode**: Choose between Storage, ChatBot, or Disable from the main interface or the pop up of the extension.
+ 2. **Add Vocabulary**: For using **storage** mode inset your email there and just select a word or sentence, its meaning, example, and (optionally) synonyms and pronunciation will be stored automatically.
+ 3. **Chat with AI**: Switch to **ChatBot** mode to ask questions or get explanations. You can select anything on any website. Open the chatbot which is visible in the bottom-left corner and you will get explanation regarding that.
+ 4. **Remove Data**: Use the remove button to clear your email or stored data.
    
 ## 📸 Screenshots
 

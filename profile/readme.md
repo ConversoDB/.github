@@ -2,7 +2,7 @@
  
  # ConversoDB
  
-  A modern React-based web extension for building, managing, and exploring a personalized vocabulary library. Users can search, filter, and favorite words, as well as organize them by         category or topic. Along with that user can get explanation about any topic using the chatbot mode, just by selecting a section.
+  A modern React-based web extension and application for building, managing, and exploring a personalized vocabulary library to store any items just by selecting the item. Users can search, filter, and favorite words, as well as organize them by category or topic by their email address. Along with that user can get explanation about any topic using the chatbot mode, just by selecting a section.
 </div>
 
 
